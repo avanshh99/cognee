@@ -557,3 +557,4 @@ class CogneeGraph(CogneeAbstractGraph):
         if query_list_length is None:
             return results[0]
         return results
+
